@@ -1,5 +1,5 @@
 git add Contributors.md# Contributors
-
+- [Adit Shah](https://github.com/shah9678)
 - [Kai Breese](https://github.com/ninjakaib)
 - [Job Wamoyi](https://github.com/wamoyi)
 Pereira
